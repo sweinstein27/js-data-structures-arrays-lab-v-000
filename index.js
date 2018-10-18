@@ -6,6 +6,6 @@ function destructivelyAppendDriver(){
 }
 
 function destructivelyPrependDriver(){
-  drivers.pop("Bob")
-  drivers.push("Ralph")
+  drivers.pop("Bob"
+  drivers.push("Garfield")
 }
