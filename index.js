@@ -6,5 +6,5 @@ function destructivelyAppendDriver(){
 }
 
 function destructivelyPrependDriver(){
-  drivers.pop("name")
+  drivers.pop("Bob")
 }
